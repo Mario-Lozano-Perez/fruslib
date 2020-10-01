@@ -1,0 +1,10 @@
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\bin\Debug\fruslib.dll
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\bin\Debug\fruslib.pdb
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.csproj.CoreCompileInputs.cache
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.dll
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.pdb
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.KstomTextBox.resources
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.csproj.GenerateResource.cache
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.KstomChekBox.resources
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.csprojAssemblyReference.cache
+D:\Programas\Archivos de Programasion\Proyectos\C#\fruslib\obj\Debug\fruslib.KstomChekTextBox.resources
